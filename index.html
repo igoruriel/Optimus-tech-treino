@@ -8,8 +8,41 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/base/base.css">
+<link rel="stylesheet" href="/assets/css/componentes/botoes.css">
+<link rel="stylesheet" href="/assets/css/componentes/cartao.css">
+<link rel="stylesheet" href="/assets/css/componentes/input.css">
+<link rel="stylesheet" href="/assets/css/cabecalho.css">
 </head>
-<body>
-    
+<body class="container">
+    <header class="cabecalho">
+        <section class="cabecalho__container">
+            <div class="cabecalho__principal">
+                <a href="/" class="cabecalho__logo__link">
+                    <img class="cabecalho__logo__img" src="/assets/img/logo.svg" alt="Logo Optimus Tech">
+                </a>
+                <nav class="cabecalho__nav">
+                    <ul class="cabecalho__lista">
+                        <li class="cabecalho__lista__item">
+                            <a href="#" class="lista__item__link">Home</a>
+                        </li>
+                        <li class="cabecalho__lista__item">
+                            <a href="#" class="lista__item__link">Produtos</a>
+                        </li>
+                        <li class="cabecalho__lista__item">
+                            <a href="#" class="lista__item__link">Recursos</a>
+                        </li>
+                        <li class="cabecalho__lista__item">
+                            <a href="#" class="lista__item__link">Sobre nós</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="cabecalho__login">
+                <button class="botao botao--entrar">Entrar</button>
+                <button class="botao">Cadastrar</button>
+            </div>
+        </section>
+    </header>    
 </body>
 </html>

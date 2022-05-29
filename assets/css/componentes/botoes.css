@@ -1,0 +1,23 @@
+.botao {
+    background-color: var(--vermelho);
+
+    font-family: inherit;
+    font-weight: var(--peso-500);
+    font-size: inherit;
+    text-align: center;
+    line-height: inherit;
+    color: var(--branco);
+
+    border: none;
+    border-radius: .5rem;
+
+    box-sizing: border-box;
+    padding: .625rem 1.125rem;
+
+    cursor: pointer;
+}
+
+.botao--entrar {
+    background-color: var(--branco);
+    color:var(--cinza-500);
+}

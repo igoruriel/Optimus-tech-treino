@@ -1,0 +1,14 @@
+@import url(_reset.css);
+@import url(_variaveis.css);
+
+body {
+    font-family: var(--fonte-principal);
+    font-size: var(--fonte-tamanho-base);
+    line-height: var(--tamanho-linha-base);
+}
+
+.container {
+    box-sizing: border-box;
+
+    padding: 0 5rem;
+}

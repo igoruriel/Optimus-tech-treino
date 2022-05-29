@@ -1,0 +1,42 @@
+.cartao {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+
+    background-color: var(--branco);
+    
+    border: 1px solid var(--cinza-200);
+    border-radius: 1rem;
+
+    box-sizing: border-box;
+
+    padding: 1.5rem 1.5rem 1.75rem;
+}
+
+.cartao__titulo {
+    font-family: inherit;
+    font-weight: var(--peso-500);
+    font-size: 1.125rem;
+    color:var(--cinza-900);
+
+    line-height: 1.75rem;
+}
+
+.cartao__conteudo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1.5rem;
+
+    width: 100%;
+}
+
+.cartao__conteudo__texto {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: var(--peso-500);
+    color: var(--cinza-500);
+}

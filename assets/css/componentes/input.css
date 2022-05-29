@@ -1,0 +1,22 @@
+.input {
+    background-color: var(--branco);
+
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: var(--peso-400);
+    line-height: inherit;
+    color: var(--cinza-500);
+
+    border: 1px solid var(--cinza-200);
+    border-radius: .5rem;
+    
+    box-sizing: border-box;
+
+    padding: .75rem .875rem .75rem 1rem;
+
+    outline: none;
+}
+
+.input::placeholder {
+    color: var(--cinza-500);
+}
