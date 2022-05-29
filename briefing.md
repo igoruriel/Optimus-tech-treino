@@ -1,0 +1,36 @@
+# briefing Optimus Tech - treino front-end
+
+## root / cores, tipografia
+
+```css
+:root{
+    --vermelho: #8E2424;
+    --branco: #FFFFFF;
+    --cinza-50: #F9FAFB;
+    --cinza-200: #EAECF0;
+    --cinza-400: #98A2B3;
+    --cinza-500: #667085;
+    --cinza-700: #3A404E;
+    --cinza-900: #101828;
+    --vermelho-transparente: rgba(142, 36, 36, 5%);
+    --vermelho-colabores-transparente: rgba(195, 25, 25, 3%);
+
+    --fonte-principal: 'Inter', sans-serif;
+    --peso-600: 600;
+    --peso-500: 500;
+    --peso-400: 400;
+    --fonte-tamanho-base: 1rem;
+}
+```
+
+## tipografia
+fonte: Inter, sans-serif
+
+titulo
+    peso: 600
+
+menu
+    peso: 500
+
+corpo
+    peso: 400
