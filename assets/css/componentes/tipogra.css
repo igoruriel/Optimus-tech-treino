@@ -1,0 +1,24 @@
+.titulo {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: var(--peso-600);
+    color: var(--vermelho);
+}
+
+.subtitulo {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: var(--peso-600);
+    letter-spacing: -0.02rem;
+    color: var(--cinza-900);
+}
+
+.paragrafo {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: var(--peso-400);
+    color: var(--cinza-500);
+}

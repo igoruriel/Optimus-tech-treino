@@ -4,8 +4,7 @@
 }
 
 .cabecalho__container {
-    margin: 1rem 0;
-    padding: 0 2rem;
+    padding: 1rem 2rem;
 
     display: flex;
     flex-direction: row;
@@ -13,11 +12,10 @@
     justify-content: space-between;
 }
 
-.cabecalho__principal {
-    display: grid;
-    grid-template-columns: calc(148px * 2) 1fr 148px;
+.cabecalho__logo__link {
+    display: flex;
+    justify-content: center;
     align-items: center;
-    
 }
 
 .cabecalho__nav {
@@ -41,3 +39,8 @@
     gap: .75rem;
 }
 
+@media screen and (max-width: 768px){
+    .cabecalho__lista {
+        display: none;
+    }
+}

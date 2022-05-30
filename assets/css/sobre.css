@@ -1,0 +1,28 @@
+.sobre__principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre__principal__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    max-width: 63.75%;
+}
+
+.sobre__subtitulo {
+    font-size: 3rem;
+    line-height: 3.75rem;
+
+    padding: 1.5rem 0;
+}
+
+.sobre__conteudo {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    text-align: center;
+}

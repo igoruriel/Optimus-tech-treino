@@ -12,3 +12,9 @@ body {
 
     padding: 0 5rem;
 }
+
+.secao {
+    box-sizing: border-box;
+    
+    padding: 6rem 0;
+}
