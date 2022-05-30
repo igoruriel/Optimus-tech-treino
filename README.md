@@ -4,14 +4,13 @@
 
 Criar um layout completo de um site, em 7 dias, utilizando HTML e CSS. 
 
-
 ### Dia 1 
 
 Fazer o cabecalho.
 
 O que eu fiz:
     
-Iniciando o planejamento, no projeto do Figma procurei por padrões, imagens, icones, tipografia e cores utilizadas afim de iniciar a organização e produção do projeto.  
+Iniciando o planejamento, no projeto do Figma procurei por padrões, imagens, icones, tipografia e cores utilizadas afim de iniciar a organização e produção do projeto.
 
 Dando início a organização, criei a pasta do projeto e criei o arquivo chamado "briefing.md", adicionei a pasta de assets e dentro da pasta de assets eu adicionei a pasta css e a pasta img. Do projeto no figma, salvei as imagens encontradas para a pasta "./assets/img/", retirei todas as informações de cores e tipografia e adicionei no arquivo "./briefing.md/".
     
@@ -103,34 +102,34 @@ E partiremos para o dia 2.
 
 ### Dia 2
 
-Esse foi interessante. 
+Criar "Sobre nós".
 
-A proposta é continuar o desenvolvimento partindo pra área do "Sobre nós", na solicitação do desafio é chamado de "Cabeçalho", mas eu entendo por cabeçalho apenas a área que está o menu ou "header". 
+Esse foi interessante. A proposta é continuar o desenvolvimento partindo pra área do "Sobre nós", na solicitação do desafio é chamado de "Cabeçalho", mas eu entendo por cabeçalho apenas a área que está o menu ou "header". 
 
 
 O que eu fiz:
 
-*Planejamento*
+**Planejamento**
 
 Procurei os padrões no projeto e encontrei o seguinte: título, subtítulo e parágrafo.
 
-*Organização* 
+**Organização** 
 
 Separei as informações básicas do que é essa área de texto e criei o componente "tipogra.css". Eu não sei muito bem se deve ser tratato como componente.
 Dessas informações de tipografia, comparei quais informações se encaixavam com o que já estava previamente em código no "base.css". 
 
-*Execução*
+**Execução**
 
 Fiz o código da área "Sobre nós" no html, fiz o código dos componentes de titulo, subtitulo e parágrafo e por último ajustei a estilização do texto no arquivo "sobre.css". 
 
 Adicionei flexbox para centralizar o texto. 
 
-*Controle*
+**Controle**
 
 Verifiquei se o projeto do código está idêntico ao proposto no projeto do figma. 
 
 Está idêntico.
 
-*Conclusão*
+**Conclusão**
 
 Finalizei mais um dia do desafio. 
