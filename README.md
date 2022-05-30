@@ -7,8 +7,6 @@ Criar um layout completo de um site, em 7 dias, utilizando HTML e CSS.
 ### Dia 1 
 
 Fazer o cabecalho.
-
-O que eu fiz:
     
 Iniciando o planejamento, no projeto do Figma procurei por padrões, imagens, icones, tipografia e cores utilizadas afim de iniciar a organização e produção do projeto.
 
@@ -105,9 +103,6 @@ E partiremos para o dia 2.
 Criar "Sobre nós".
 
 Esse foi interessante. A proposta é continuar o desenvolvimento partindo pra área do "Sobre nós", na solicitação do desafio é chamado de "Cabeçalho", mas eu entendo por cabeçalho apenas a área que está o menu ou "header". 
-
-
-O que eu fiz:
 
 **Planejamento**
 
