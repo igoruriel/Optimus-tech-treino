@@ -128,3 +128,28 @@ Está idêntico.
 **Conclusão**
 
 Finalizei mais um dia do desafio. 
+
+
+### Dia 3
+
+Seção de métricas.
+
+Hoje foi mais tranquilo, mais fácil. A maior parte já estava pronta na forma de componentes, então o que eu tive que fazer foi consertar apenas os pontos específicos na classe específica das métricas.
+
+A construção do html foi ok.. eu pensei primeiro em deixar todo o conteúdo dentro de apenas uma "div". Então ficaria assim: 
+
+```html
+<div class="metrica__caixa">
+    <h2 class="titulo metrica__titulo">500+</h2>
+    <h3 class="subtitulo metrica__subtitulo">Reviews 5 estrelas</h3>
+    <p class="paragrafo metrica__paragrafo">
+        Estamos orgulhosos de contar com mais de 500 reviews 5 estrelas em nossos produtos.
+    </p>
+</div>
+```
+
+Só que no processo, eu vi que o que me deixaria feliz seria colocar o subtitulo e o texto do parágrafo dentro de uma segunda div dentro da primeira div. 
+
+O que me facilitou alinhar e colocar espaçamento vertical usando o display "grid", e o resultado foi este que vemos hoje. 
+
+E hoje foi um dia estranho... só digo isso.
