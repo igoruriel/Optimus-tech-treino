@@ -153,3 +153,11 @@ Só que no processo, eu vi que o que me deixaria feliz seria colocar o subtitulo
 O que me facilitou alinhar e colocar espaçamento vertical usando o display "grid", e o resultado foi este que vemos hoje. 
 
 E hoje foi um dia estranho... só digo isso.
+
+### Dia 4
+
+Seção de vagas abertas até a imagem. 
+
+Outra dia fácil, todo o planejamento do início tá recompensando hoje. Faz até parecer que é um trabalho fácil... O layout também parece que facilita tudo. Será que todos os designers de figma são assim? Deus ajude... 
+
+Para a seção de vagas eu resolvi copiar a estrutura de div das métricas, mas adicionando uma div extra pra imagem, então ficou: "div>img+div>h2+div>h3+p". as classes foram iguais as anteriores, mas claro, adicionei as classes específicas para fazer as alterações pontuais. O resultado até agora, me parece perfeito. 
