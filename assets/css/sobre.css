@@ -17,6 +17,7 @@
 .sobre__subtitulo {
     font-size: 3rem;
     line-height: 3.75rem;
+    text-align: center;
 
     padding: 1.5rem 0;
 }

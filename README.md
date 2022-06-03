@@ -161,3 +161,11 @@ Seção de vagas abertas até a imagem.
 Outra dia fácil, todo o planejamento do início tá recompensando hoje. Faz até parecer que é um trabalho fácil... O layout também parece que facilita tudo. Será que todos os designers de figma são assim? Deus ajude... 
 
 Para a seção de vagas eu resolvi copiar a estrutura de div das métricas, mas adicionando uma div extra pra imagem, então ficou: "div>img+div>h2+div>h3+p". as classes foram iguais as anteriores, mas claro, adicionei as classes específicas para fazer as alterações pontuais. O resultado até agora, me parece perfeito. 
+
+### Dia 5
+
+Segunda seção de vagas. 
+
+Finalizei.. pensei muito sobre, e sim... eu coloquei min-width de 768px no cartão... paciência... 
+
+Tô cansado... to trabalhando em 4 empregos
