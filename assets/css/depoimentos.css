@@ -1,0 +1,55 @@
+.depoimentos__container {
+    padding: 0 2rem;
+}
+
+.depoimentos__conteudo {
+    background-color: var(--vermelho-transparente);
+    gap: 2rem;
+
+    border-radius: 1rem;
+    padding: 4rem;
+}
+
+.depoimentos__principal {
+    gap: 1rem;
+}
+
+.depoimentos__titulo {
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.depoimentos__subtitulo {
+    font-size: 2.25rem;
+    line-height: 2.75rem;
+    font-weight: var(--peso-500);
+}
+
+.depoimentos__colab {
+    gap: 1rem;
+}
+
+.colab__img {
+    width: 56px;
+    height: 56px;
+}
+
+.colab__info {
+    gap: .25rem;
+}
+/* testes */
+
+.flex__teste {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.depoimentos__titulo,
+.depoimentos__subtitulo,
+.colab__nome,
+.colab__cargo {
+    text-align: center;
+}
+
+/* fim dos testes */
