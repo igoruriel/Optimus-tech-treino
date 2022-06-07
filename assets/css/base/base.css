@@ -7,7 +7,8 @@ body {
     line-height: var(--tamanho-linha-base);
 }
 
-.container {
+.cabecalho,
+.main {
     box-sizing: border-box;
 
     padding: 0 5rem;

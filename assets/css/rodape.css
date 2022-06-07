@@ -1,0 +1,37 @@
+.rodape,
+.rodape__container,
+.rodape__conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rodape {
+    background-color: var(--cinza-50);
+    
+    gap: 2rem;
+}
+
+.rodape__container {
+    font-size: 2.25rem;
+    line-height: 2.75rem;
+    padding: 0 2rem;
+    gap: 2.5rem;
+}
+
+.rodape__conteudo {
+    gap: 1.5rem;
+}
+
+.rodape__texto {
+    font-size: 1.5rem;
+    line-height: 1.875rem;
+}
+
+.rodape__newsletter {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+
+    gap: 1rem;
+}

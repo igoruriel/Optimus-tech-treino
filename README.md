@@ -170,9 +170,12 @@ Finalizei.. pensei muito sobre, e sim... eu coloquei min-width de 768px no cart�
 
 Tô cansado... to trabalhando em 4 empregos
 
-### Dia 5
+### Dia 6
 
 Seção de depoimentos dos colaboradores
 
 O mais importante nessa seção é que eu resolvi fazer um teste de flexbox e de text align... o que será que é o certo tbm... fico pensando... E se os sites que nós vemos supermodernos colocam tantos componentes que a construção do site se faz de pequenos códigos componentizados.. entende? bom.. eu não sei como funciona.. to nessa tem pouco tempo só 8 meses.. enfim.. queria entender. 
 
+### Dia 7
+
+Rodapé. 
