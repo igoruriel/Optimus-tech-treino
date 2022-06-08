@@ -179,3 +179,7 @@ O mais importante nessa seção é que eu resolvi fazer um teste de flexbox e de
 ### Dia 7
 
 Rodapé. 
+
+fiz tudo certo.. mas o input e o cadastras estão seguindo o size de alguma coisa? vo ver isso depois.. 
+
+Descobri o erro era o text-size no container.. agora sim, finalizado. 
